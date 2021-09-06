@@ -27,5 +27,8 @@ export class OrbitCountsComponent implements OnInit {
 	return count;
  }
 
+ totalSatellites():number {
+	 return this.satellites.length;
+ }
 
 }
