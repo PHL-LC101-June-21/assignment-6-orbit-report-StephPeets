@@ -5,10 +5,10 @@
 	width: 225px;
 }
 
-.counts div {
+.counts table {
 	padding: 8px;
 }
 
 .counts span {
-	float: right;
+	float: right;empty-cells: show;
 }
