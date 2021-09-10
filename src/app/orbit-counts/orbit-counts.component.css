@@ -12,3 +12,7 @@
 .counts span {
 	float: right;empty-cells: show;
 }
+
+.counts th {
+	text-align: left;
+}
